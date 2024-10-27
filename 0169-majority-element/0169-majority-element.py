@@ -4,13 +4,14 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        # Boyer-Moore Voting Algorithm
-        count = 0
-        candidate = None
-
-        for num in nums:
-            if count == 0:
-                candidate = num
-            count += (1 if num == candidate else -1)
-
-        return candidate
+        a=nums[0]
+        x=0
+        for i in nums:
+            if i==a:
+                x+=1
+            else:
+                x-=1
+            if x==0:
+                a=i
+                x+=1
+        return a
