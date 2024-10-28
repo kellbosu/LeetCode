@@ -25,6 +25,7 @@ LeetCode problems I've solved.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kellbosu/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/kellbosu/LeetCode/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -33,4 +34,9 @@ LeetCode problems I've solved.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kellbosu/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/kellbosu/LeetCode/tree/master/0383-ransom-note) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/kellbosu/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
